@@ -1,2 +1,2 @@
-# linux-install
-linux install scripts. WIP
+# arch-install
+arch install scripts. WIP
