@@ -1,6 +1,4 @@
 # arch-install
-arch install scripts. WIP
-
 arch install scripts. WIP and probably not useful for anyone who isn't me.
 
 ```git clone https://github.com/crowquillx/arch-install.git
